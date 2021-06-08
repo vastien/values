@@ -2,7 +2,7 @@
 Money values using API fetch
 
   <p align="center">
-  bastie.me/values/</p>
+  https://bastie.me/values/</p>
 
 ## What is a API?
 

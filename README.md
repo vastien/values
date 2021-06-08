@@ -1,7 +1,7 @@
 # Money Values 💰 
 Money values using API fetch
 
-<p center>
+<p type=center>
   bastie.me/values/
   </p>
 ## What is a API?

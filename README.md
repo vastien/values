@@ -1,9 +1,9 @@
 # Money Values 💰 
 Money values using API fetch
 
-<p type=center>
-  bastie.me/values/
-  </p>
+  <p align="center">
+  bastie.me/values/</p>
+
 ## What is a API?
 
 EST is acronym for REpresentational State Transfer. Means that it consumes data from another JSON file.
